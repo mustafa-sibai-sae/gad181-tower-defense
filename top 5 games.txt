@@ -1,5 +1,37 @@
-BloodBorn
-Portal2
-NeirAutomata
-Darkest Dungeon
-Dishonred
+1. Minecraft
+2. Scribble.io
+3. Super mario
+4. Fornite battle royal
+5. The callisto protocol
+6. Doki doki simulator 
+7. I Love You, Colonel Sanders!
+8. Bad Rats
+9. Redfall
+10. MLP
+11. Fortnite PvE
+12. Robolox
+13. Overwatch 2
+14. Diablo Immortal
+15. Sonic Forces
+16. Minecraft Raspberry Pi Edition
+17. Minecraft Xbox Edition
+18. Minecraft Playstation Edition
+19. Minecraft Nintendo Switch Edition
+20. Minecraft Java Edition
+21. Elderscrolls 5: skyrim 
+22. Elderscrolls 5: skyrim special edition
+23. Elderscrolls 5: skyrim complete edition
+24. Elderscrolls 5: skyrim anniversary edition
+25. Elderscrolls 5: skyrim remastered complete special anniversary 
+26.minecraft
+27.tetris
+28.chess
+29.witcher 3
+30.cs:go
+31.BloodBorn
+32.Portal2
+33.NeirAutomata
+34.Darkest Dungeon
+35.Dishonred
+
+
