@@ -1,0 +1,4 @@
+use wasd to move 
+use e to grapple 
+use space for jump
+use lctrl for crouch 
