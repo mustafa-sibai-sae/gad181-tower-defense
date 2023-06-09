@@ -1,4 +1,3 @@
-Soham: 
 1. minecraft
 2. scribble.io
 3. Super mario
@@ -14,3 +13,8 @@ Soham:
 13. Overwatch 2
 14. Diablo Immortal
 15. Sonic Forces
+16. Minecraft Raspberry Pi Edition
+17. Minecraft Xbox Edition
+18. Minecraft Playstation Edition
+19. Minecraft Nintendo Switch Edition
+20. Minecraft Java Edition
