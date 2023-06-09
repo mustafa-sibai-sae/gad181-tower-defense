@@ -1,14 +1,15 @@
-1. minecraft
-2. scribble.io
+
+1. Minecraft
+2. Scribble.io
 3. Super mario
-4. Fornite 
+4. Fornite battle royal
 5. The callisto protocol
-6. doki doki simulator 
+6. Doki doki simulator 
 7. I Love You, Colonel Sanders!
 8. Bad Rats
 9. Redfall
 10. MLP
-11. Fortnite
+11. Fortnite PvE
 12. Robolox
 13. Overwatch 2
 14. Diablo Immortal
@@ -18,3 +19,9 @@
 18. Minecraft Playstation Edition
 19. Minecraft Nintendo Switch Edition
 20. Minecraft Java Edition
+21. Elderscrolls 5: skyrim 
+22. Elderscrolls 5: skyrim special edition
+23. Elderscrolls 5: skyrim complete edition
+24. Elderscrolls 5: skyrim anniversary edition
+25. Elderscrolls 5: skyrim remastered complete special anniversary 
+
