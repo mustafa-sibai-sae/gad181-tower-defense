@@ -1,0 +1,5 @@
+1) Minecraft Raspberry Pi Edition
+2) Minecraft Xbox Edition
+3) Minecraft Playstation Edition
+4) Minecraft Nintendo Switch Edition
+5) Minecraft Java Edition
